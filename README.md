@@ -1,7 +1,7 @@
 <h2> Hi, I'm Mostafa Esam! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://www.google.com/url?sa=i&url=https%3A%2F%2Feg.linkedin.com%2Fschool%2Finformation-technology-institute-iti-%2F&psig=AOvVaw24Pqbr5oIjO0cXRVgPJcx4&ust=1716643162755000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCICJ56CwpoYDFQAAAAAdAAAAABAE" width="230">
-<p><em>Software Enginner at <a style="text-decoration:none">ITI ( INFORMATION TTECHNOLOGY )</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Software Enginner <a  style="text-decoration:none" href="">ThoughtWorks</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>
+<img align='right' src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.dailynewsegypt.com%2F2022%2F02%2F19%2Fiti-opens-registration-for-training-courses-for-university-graduates%2F&psig=AOvVaw24Pqbr5oIjO0cXRVgPJcx4&ust=1716643162755000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCICJ56CwpoYDFQAAAAAdAAAAABAa" width="230">
+<p>Software Enginner at <a style="text-decoration:none">ITI ( INFORMATION TTECHNOLOGY )</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Software Enginner <a  style="text-decoration:none" href="">ThoughtWorks</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</p>
 
 [![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/ThaiiBraga?style=social)](https://twitter.com/ThaiiBraga)
 [![Linkedin: thaianebraga](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/thaianebraga/)
